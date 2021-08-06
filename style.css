@@ -10,7 +10,7 @@
   align-items: center;
 }
 .nav {
-  background-color: #fbbf24;
+  background-color: #6ee7b7;
   width: 100%;
   text-align: center;
   height: 70px;
@@ -21,7 +21,7 @@
   width: 100%;
   text-align: center;
 
-  background-color: #fbbf24;
+  background-color: #6ee7b7;
 }
 /* ------------------------ */
 
@@ -35,7 +35,7 @@
   padding: 10px;
   height: 30px;
   width: 150px;
-  border: 3px solid #fbbf24;
+  border: 3px solid #6ee7b7;
   border-radius: 12px;
   background-color: white;
   padding-bottom: 25px;
